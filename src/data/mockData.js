@@ -3,8 +3,8 @@ export const mockPosts = [
     id: 1,
     type: 'your-submission',
     author: {
-      name: 'Ashraf Idrishi',
-      avatar: 'https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=150&h=150&fit=crop',
+      name: 'Ava Johnson',
+      avatar: 'https://images.unsplash.com/photo-1524504388940-b1c1722653e1?w=150&h=150&fit=crop',
       timestamp: '1s'
     },
     content: 'Today challenge workout completed - feeling stronger already',
@@ -25,8 +25,8 @@ export const mockPosts = [
     type: 'pinned',
     isPinned: true,
     author: {
-      name: 'Russell Brunson',
-      avatar: 'https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=150&h=150&fit=crop',
+      name: 'Noah Kim',
+      avatar: 'https://images.unsplash.com/photo-1520975958225-1d61f33a2f4a?w=150&h=150&fit=crop',
       timestamp: '3 hrs ago'
     },
     content: 'This 9-day fitness challenge is designed to help you build consistency, boost energy, and feel stronger - one day at a time. Each day comes with a simple, achievable fitness task that fits easily into your routine, no matter your current fitness level.',
@@ -45,15 +45,15 @@ export const mockPosts = [
     id: 3,
     type: 'community',
     author: {
-      name: 'Sayantan Chandra',
+      name: 'Mia Patel',
       avatar: null,
-      initials: 'S',
+      initials: 'M',
       timestamp: '1 hrs ago'
     },
     content: 'Completed today challenge workout, one step closer to my goal.',
     media: {
       type: 'image',
-      url: 'https://images.unsplash.com/photo-1517836357463-d25dfeac3438?w=800&h=600&fit=crop'
+      url: 'https://images.unsplash.com/photo-1518611012118-696072aa579a?w=800&h=600&fit=crop'
     },
     reactions: {
       pray: { emoji: '🙏', count: 0 },
@@ -65,14 +65,14 @@ export const mockPosts = [
     id: 4,
     type: 'community',
     author: {
-      name: 'Pappu Saha',
-      avatar: 'https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=150&h=150&fit=crop',
+      name: 'Lucas Garcia',
+      avatar: 'https://images.unsplash.com/photo-1544723795-3fb6469f5b39?w=150&h=150&fit=crop',
       timestamp: '2 day ago'
     },
     content: 'Today challenge workout completed - feeling stronger already',
     media: {
       type: 'image',
-      url: 'https://images.unsplash.com/photo-1549060279-7e168fcee0c2?w=800&h=600&fit=crop'
+      url: 'https://images.unsplash.com/photo-1517964603305-11c0f6f66012?w=800&h=600&fit=crop'
     },
     reactions: {
       pray: { emoji: '🙏', count: 0 },
@@ -84,9 +84,9 @@ export const mockPosts = [
     id: 5,
     type: 'community',
     author: {
-      name: 'Srijan Chandra',
+      name: 'Zoe Chen',
       avatar: null,
-      initials: 'S',
+      initials: 'Z',
       timestamp: '1d'
     },
     content: 'Taking part in the workout challenge and staying consistent.',
@@ -96,7 +96,7 @@ export const mockPosts = [
     },
     media: {
       type: 'image',
-      url: 'https://images.unsplash.com/photo-1574680096145-d05b474e2155?w=800&h=600&fit=crop'
+      url: 'https://images.unsplash.com/photo-1518611012118-696072aa579a?w=800&h=600&fit=crop'
     },
     reactions: {
       pray: { emoji: '🙏', count: 0 },

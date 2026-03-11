@@ -67,7 +67,7 @@ export default function Header({ onThemeToggle, isDark }) {
         </button>
 
         <div className={styles.avatar}>
-          <img src="https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop" alt="User avatar" />
+          <img src="https://images.unsplash.com/photo-1524504388940-b1c1722653e1?w=100&h=100&fit=crop" alt="User avatar" />
         </div>
       </div>
     </header>

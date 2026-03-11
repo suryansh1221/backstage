@@ -17,9 +17,9 @@ export default function FeedList() {
           <h2 className={styles.sectionTitle}>
             See what others{' '}
             <div className={styles.avatarStack}>
-              <img src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=100&h=100&fit=crop" alt="" className={styles.stackAvatar} />
-              <img src="https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=100&h=100&fit=crop" alt="" className={styles.stackAvatar} />
-              <img src="https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop" alt="" className={styles.stackAvatar} />
+              <img src="https://images.unsplash.com/photo-1544723795-3fb6469f5b39?w=100&h=100&fit=crop" alt="" className={styles.stackAvatar} />
+              <img src="https://images.unsplash.com/photo-1520975958225-1d61f33a2f4a?w=100&h=100&fit=crop" alt="" className={styles.stackAvatar} />
+              <img src="https://images.unsplash.com/photo-1524504388940-b1c1722653e1?w=100&h=100&fit=crop" alt="" className={styles.stackAvatar} />
             </div>{' '}
             shared
           </h2>
